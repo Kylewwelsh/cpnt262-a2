@@ -76,3 +76,5 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - I spelled description wrong for the innerHtml, problem fixed and a break has been added between the description and photo credit
 - All the image titles, captions and photo credits updated for all the photos
 - css style for the photo titles, figcaptions and photo credits added
+- css for gallery turned into flexbox
+- css declaration created for the figure elements, a width is site wider than the photo to account for long text and keep the images aligned properly
