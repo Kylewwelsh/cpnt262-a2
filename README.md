@@ -19,3 +19,7 @@ __
 - css started for the new nav, new nav will just end up being a hamburger menu
 - Social icons had to be given a color of black (usually this is redundant) as the default color for them was the default for a link
 - tab icon svg opacity changed to 1 so color would come out
+- images added to the directory (forgot to mention that in the commit, whoops)
+- just realized it was stupid to style the i icons when I can just make all the links black
+- a "socials" class added to the ul for the social media icons just in case I need to style the ul's separately
+-
