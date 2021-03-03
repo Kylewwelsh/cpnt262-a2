@@ -54,4 +54,4 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - Added const for the gallery called "galleryContainer"
 - forEach created for the images
 - .createElement used to create a figure element, appendChild used to put the figure element inside the gallery
-- 
+- p element created the same as above, classList.add used to add a class of "imageTitle to the p for styling purposes

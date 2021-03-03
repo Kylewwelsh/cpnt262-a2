@@ -71,3 +71,8 @@ const galleryContainer = document.querySelector('.gallery');
 images.forEach( function(images){
   const figure = document.createElement('figure');
   galleryContainer.appendChild(figure);
+
+  const title = document.createElement('p');
+  title.classList.add('imageTitle')
+  title.innerHTML = image.title;
+  figure.appendChild(title);
