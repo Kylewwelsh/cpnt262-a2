@@ -86,3 +86,4 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - Did another look over on my main.css, organized the code in order of the page and found that .gallery was done twice so combined the 2 into 1
 - Oh s**t totally forgot I had a title in the html that was commented out, adding that back
 - Title added back, styled in fonts.css and main.css
+- Comments added

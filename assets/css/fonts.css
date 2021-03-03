@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&family=Big+Shoulders+Display:wght@600&family=Coda+Caption:wght@800&display=swap');
-
+/* do not touch fonts, sans-serif set as backup to google import fonts */
 .main-title {
   font-family: 'Big Shoulders', sans-serif;
   font-weight: 800;
@@ -11,15 +11,18 @@ ul  {
   font-size: 30px;
 }
 
+/* element created in javasciprt */
 .imageTitle {
   font-family: 'Big Shoulders', sans-serif;
   font-weight: 800;
 }
 
+/* element created in javasciprt */
 figcaption {
   font-family: 'Balsmiq Sans', sans-serif;
 }
 
+/* element created in javasciprt */
 .photoCredit {
   font-family: 'Balsmiq Sans', sans-serif;
   font-weight: 700;

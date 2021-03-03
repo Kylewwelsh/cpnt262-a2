@@ -1,17 +1,19 @@
 'use strict';
+
+// const created for the array of objects being used for the images, then exported to the script.js file
 export const images = [
   {
-    id: 0,
-    title: "Superman Jump!",
-    description: "Cooper jumping onto the deck at Grandma and Grandpa's house.",
-    width: 250,
-    height: 350,
-    pathURL: './assets/images/gallery/00.jpg',
-    linkURL: 'https://en.wikipedia.org/wiki/Norwegian_Buhund',
-    credit: "Kyle Welsh",
-    creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/',
+    id: 0, //specific id# given, no duplicates, will not be displayed in html
+    title: "Superman Jump!", //title of photo to be displayed in html
+    description: "Cooper jumping onto the deck at Grandma and Grandpa's house.", // description of photo to be placed in html figcaption, also to be used as alt text if image does not load
+    width: 250, //controls the width of the image
+    height: 350, // controls height of image
+    pathURL: './assets/images/gallery/00.jpg', //file path for the image
+    linkURL: 'https://en.wikipedia.org/wiki/Norwegian_Buhund', //link to wikipedia page made for coopers bread
+    credit: "Kyle Welsh", //credit to whoever took the photo
+    creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/', // leads to an old assignment as I do not have a photo page
   },
-
+// comments above are the same for all itmes below
   {
     id: 1,
     title: "Little ball of tired",
@@ -133,7 +135,7 @@ creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/',
 },
 
 {
-id: 11,
+id: 11, //lol this one makes me laugh with the caption
 title: "R.I.P.",
 description: "Cooper passed out in bed with his tongue out sleeping like he's dead.",
 width: 250,
@@ -142,5 +144,4 @@ pathURL: './assets/images/gallery/11.jpg',
 linkURL: 'https://en.wikipedia.org/wiki/Norwegian_Buhund',
 credit: "Kyle Welsh",
 creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/',
-},
-];
+}];

@@ -3,7 +3,7 @@ body {
   background-color: whitesmoke;
   height: 100vh;
 }
-
+/* Color and Image for top banner */
 .banner {
   width: 100%;
   height: 3rem;
@@ -13,7 +13,8 @@ body {
   background-color: #C6EFFF;
 }
 
-.navButton {
+/* Hamburger menu styles */
+.navButton { 
   height: 3rem;
   width: 3rem;
 
@@ -25,15 +26,18 @@ body {
   font-size: 2.5rem;
 }
 
+/* icon to close the open menu */
 .xIcon {
   display: none;
 }
 
+/* added so user knows they are over a button on desktop */
 button:hover {
   background-color: black;
   color: #C6EFFF;
 }
 
+/* controls the menu that opens up with all nav links */
 nav {
   position: fixed;
   top: 3rem;
@@ -49,23 +53,26 @@ nav {
   transform: translateX(-100%);
   transition: transform 0.2s;
 }
-
+/* slides the nav menu out from the left */
 .showNav {
   transform: translateX(0);
 }
 
+/* menu options */
 .navOptions {
   margin-top: 0;
   font-size: 2.5rem;
   list-style-type: none;
 }
 
+/* social media links */
 .socials {
   display: inline-flex;
   font-size: 4rem;
   list-style-type: none;
 }
 
+/* padding added for both the menu and social link li's */
 li {
   padding: 10px;
 }
@@ -74,11 +81,13 @@ a {
   color: black;
 }
 
+/* title in header */
 .main-title {
   text-align: center;
   padding: 20px;
 }
 
+/* gallery, images will be imported through object arrays in javascript */
 .gallery {
   display: flex;
   flex-flow: row wrap;
@@ -91,6 +100,7 @@ a {
   margin-right: 0;
 }
 
+/* element created in javasciprt */
 figure {
  text-align: center;
  width: 250px;
