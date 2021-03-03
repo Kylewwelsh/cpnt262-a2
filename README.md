@@ -30,3 +30,10 @@ __
 - color and background color added to button on hover
 - 'x' icon added to button, set to display none
 - nav now set to display none, footer given absolute position with bottom: 0, header commented out for now
+- class added to the hamburger icon to separate it from the x icon in the button, styles added to:
+  - display x icon
+  - hide hamburger icon
+  - display nav options
+- Hamburger menu completed, played around with it in this [codepen](https://codepen.io/kylewwelsh/full/yLVEYOK) to learn the information from DEV
+- Links given an href of # (except socials)
+- 

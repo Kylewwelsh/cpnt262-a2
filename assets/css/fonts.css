@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&family=Big+Shoulders+Display:wght@600&family=Coda+Caption:wght@800&display=swap');
+
+ul  {
+  font-family: 'Coda Caption', sans-serif;
+  font-size: 30px;
+}
+
+.main-title, .about-me-mobile-title-new {
+  font-family: 'Balsamiq Sans', sans-serif;
+  font-weight: 700;
+  
+  font-size: 50px;
+
+  text-align: center;
+
+  margin: auto;
+  
+  padding: 20px;
+  padding-bottom: 40px;
+  
+}
+
+.main-paragraph {
+  display: flex;
+  flex-flow: column wrap;
+  
+  
+  font-family: 'Balsmiq Sans', sans-serif; 
+  font-size: 30px;
+  max-width: 95ch;
+
+  margin: auto;
+
+  padding: 50px;
+
+  left: 0;
+  right: 0;
+
+ 
+
+  text-align: center;
+  
+}
+
+.more-info {
+  font-family: 'Balsmiq Sans', sans-serif;
+  font-weight: 400;
+
+
+  font-size: 40px;
+  word-spacing: 5px;
+ 
+  text-align: center;
+
+  padding: 5px;
+  padding-bottom: 40px;
+}
+
+.front-card-title {
+  font-family: 'Balsmiq Sans', sans-serif;
+  font-weight: 700;
+
+  font-size: 40px;
+
+  padding: 20px;
+  padding-bottom: 95px;
+}
+
+.card-paragraph {
+  font-family: 'Balsmiq Sans', sans-serif;
+  padding: 15px;
+}
+
+.footer {
+  font-family: 'Coda Caption', sans-serif;
+  font-size: 20px;
+
+  text-align: center;
+}
+
+figcaption {
+  font-family: 'Big Shoulders Display', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width: 1085px) {
+
+  .main-title {
+    font-size: 40px;
+
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+
+  .more-info {
+    font-size: 30px;
+    padding: 20px;
+  }
+
+  .main-paragraph {
+    text-align: center;
+ 
+    left: 0;
+    right: 0;
+
+    font-size: 25px;
+
+    padding: 10px;
+    padding-top: 20px;
+    
+  }
+}
