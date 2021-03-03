@@ -67,3 +67,6 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - p element being used for the title has had the appendChild changed from being in the gallery to being in the figure element
 - target = 'blank' added to the imageLink and photoCredit to open a new tab for the link instead of leaving the page
 - The link for the photo credit was broken, had to fix
+- java script is getting pretty long, might put all the arrays into a separate file and do a import/export
+- images array put into a separate js file, exported and then imported into the main script file
+- footer adjusted for all the images, changed from position absolute to position relative

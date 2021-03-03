@@ -100,10 +100,7 @@ display: flex;
 
 footer {
   /*DO NOT add a width to the footer, keeps messing with page width*/
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  position:relative;
 
   background-color: #C6EFFF;
 
