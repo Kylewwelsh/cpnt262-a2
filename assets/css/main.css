@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background-color: whitesmoke;
+  height: 100vh;
 }
 
 .banner {
@@ -100,8 +101,7 @@ display: flex;
 
 footer {
   /*DO NOT add a width to the footer, keeps messing with page width*/
-  position:relative;
-
+  position: relative;
   background-color: #C6EFFF;
 
   /*Paw image for background on footer*/

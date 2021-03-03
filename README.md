@@ -70,3 +70,4 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - java script is getting pretty long, might put all the arrays into a separate file and do a import/export
 - images array put into a separate js file, exported and then imported into the main script file
 - footer adjusted for all the images, changed from position absolute to position relative
+- The rest of the images were just a copy and paste and the id's were changed. Now changing all the other information
