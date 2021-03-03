@@ -59,3 +59,9 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - a element created for the third party website link, class added as "imageLink"
 - a element added for photo credit link, "photoCredit" class name given
 - `${images.desctiption} Photo Credit:` added to figcaption to produce desired text output
+- issues with the photos showing up, checking the code
+- first mistake found, appendChild was used to nest the figcaption in the gallery, now switched to nest in the figure element
+- main issue found, const were created for all the attributes but not for an actual image, fixing now
+- img const created, appendChild used to nest the image inside the image link, the src/alt/width/height were all added
+- Final issue fixed, the const for the image link needed to be above the img const
+- p element being used for the title has had the appendChild changed from being in the gallery to being in the figure element

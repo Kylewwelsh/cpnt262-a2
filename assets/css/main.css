@@ -95,15 +95,7 @@ figure {
 }
 
 .gallery {
-  padding: 0px;
-
-  max-width: 300px;
-  max-height: 300px;
-  align-items: center;
-
-  object-fit: scale-down; 
-
-  border-radius: 10px 10px 10px 10px;
+display: flex;
 }
 
 footer {
