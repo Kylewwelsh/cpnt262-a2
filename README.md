@@ -81,3 +81,5 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - Just realized my descriptions don't meet the 10 word minimum, adding more
 - Figure width changed to same width as photo
 - Read through assignment again to make sure everything was done correctly, added strict to the imageArray.js file
+- Running code through validators
+- code validated, html and css files were good but validators had an issue with how I was using the strict in js files, will talk to Tony

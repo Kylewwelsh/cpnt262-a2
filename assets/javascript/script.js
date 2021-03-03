@@ -21,7 +21,7 @@ function toggleMenu() {
   }
 };
 
-const navOptions = document.querySelectorAll(".navOptions")
+const navOptions = document.querySelectorAll(".navOptions");
 
 navOptions.forEach(
   function (navOptions) {
