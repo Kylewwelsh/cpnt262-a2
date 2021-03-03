@@ -3,6 +3,14 @@ body {
   background-color: whitesmoke;
 }
 
+nav {
+  padding-bottom: 75px;
+}
+
+.nav-options {
+  list-style-type: none;
+}
+
 .gallery-flex {
   display: flex;
   flex-flow: row wrap;

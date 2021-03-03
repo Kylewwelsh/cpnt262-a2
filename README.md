@@ -14,3 +14,6 @@ __
 - css and html from cpnt260-a3 copied over, left the css for the other pages from cpnt260 out of the copy and paste
 - media queries and hover declarations that were in the original gallery have been taken out
 - figures and figcaptions have been taken out of the html, div tag for the old gallery changed to a main tag
+- going to start with updating the nav from the old assignment 
+- The secondary nav that was in the old assignment has been taken out, unneeded classes taken out, font awesome script added, link for browser tab icon added
+- css started for the new nav, new nav will just end up being a hamburger menu
