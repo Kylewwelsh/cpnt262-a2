@@ -83,3 +83,4 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - Read through assignment again to make sure everything was done correctly, added strict to the imageArray.js file
 - Running code through validators
 - code validated, html and css files were good but validators had an issue with how I was using the strict in js files, will talk to Tony
+- Did another look over on my main.css, organized the code in order of the page and found that .gallery was done twice so combined the 2 into 1
