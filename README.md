@@ -57,4 +57,5 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - p element created the same as above, classList.add used to add a class of "imageTitle to the p for styling purposes
 - figcaption element added, no class given
 - a element created for the third party website link, class added as "imageLink"
-- 
+- a element added for photo credit link, "photoCredit" class name given
+-

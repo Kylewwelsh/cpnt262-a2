@@ -79,9 +79,15 @@ images.forEach( function(images){
 
   const figcaption = document.createElement('figcaption');
   title.innerHTML = images.description;
-  galleryContainer.appendChild(figurecaption);
+  galleryContainer.appendChild(figcaption);
 
   const imageLink = document.createElement('a');
   imageLink.classList.add('imageLink');
   imageLink.href = images.linkURL;
   figure.appendChild(imgLink);
+
+  const photoCredit = document.createElement('a');
+  photoCredit.classList.add('photoCredit');
+  photoCredit.href = image.creditURL;
+  photoCredit.innerHTML = image.credit;
+  figCaption.appendChild(photoCredit);
