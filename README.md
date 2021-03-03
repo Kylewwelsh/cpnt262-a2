@@ -23,4 +23,6 @@ __
 - just realized it was stupid to style the i icons when I can just make all the links black
 - a "socials" class added to the ul for the social media icons just in case I need to style the ul's separately
 - inline added to socials, padding added to li's, bullet points taken out of the ul's
--
+- banner added, footer height changed from px to rem to match banner, hamburger icon added
+- button added and styled for hamburger menu, menu options and socials given 2rem font size
+- 
