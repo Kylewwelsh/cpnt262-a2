@@ -80,3 +80,4 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - css declaration created for the figure elements, a width is site wider than the photo to account for long text and keep the images aligned properly
 - Just realized my descriptions don't meet the 10 word minimum, adding more
 - Figure width changed to same width as photo
+- Read through assignment again to make sure everything was done correctly, added strict to the imageArray.js file
