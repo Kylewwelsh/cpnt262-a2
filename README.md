@@ -26,3 +26,5 @@ __
 - banner added, footer height changed from px to rem to match banner, hamburger icon added
 - button added and styled for hamburger menu, menu options and socials given 2rem font size
 - border and outline taken off button, (might put the outline back on so it looks pressed but will decide later)
+- background color added to menu options, nav set to 100vh height and 25rem width, margin-top set to 0 to for nav-options to connect nav to banner
+- color and background color added to button on hover

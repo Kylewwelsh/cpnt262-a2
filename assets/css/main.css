@@ -15,20 +15,23 @@ button {
   width: 3rem;
 
   background-color: transparent;
-  
+
   border: none;
   outline: none;
 
   font-size: 2.5rem;
 }
 
-/* i {
-  font-size: 3rem;
-} */
+button:hover {
+  background-color: black;
+  color: #C6EFFF;
+}
 
 nav {
-  padding-bottom: 75px;
+  height: 100vh;
+  width: 25rem;
 
+  background-color: #C6EFFF;
 }
 
 ul {
@@ -42,6 +45,10 @@ li {
 
 .socials {
   display: inline-flex;
+}
+
+.nav-options {
+  margin-top: 0;
 }
 
 a {
