@@ -65,3 +65,5 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - img const created, appendChild used to nest the image inside the image link, the src/alt/width/height were all added
 - Final issue fixed, the const for the image link needed to be above the img const
 - p element being used for the title has had the appendChild changed from being in the gallery to being in the figure element
+- target = 'blank' added to the imageLink and photoCredit to open a new tab for the link instead of leaving the page
+- The link for the photo credit was broken, had to fix

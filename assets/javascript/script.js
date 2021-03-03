@@ -38,7 +38,7 @@ const images = [
     pathURL: './assets/images/gallery/00.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Norwegian_Buhund',
     credit: "Kyle Welsh",
-    creditURL: 'https://www.kylewwelsh.github.io/cpnt260-a4/',
+    creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/',
   },
 
   {
@@ -50,7 +50,7 @@ const images = [
     pathURL: './assets/images/gallery/01.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Norwegian_Buhund',
     credit: "Kyle Welsh",
-    creditURL: 'https://www.kylewwelsh.github.io/cpnt260-a4/',
+    creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/',
   },
 
     {
@@ -62,7 +62,7 @@ const images = [
     pathURL: './assets/images/gallery/02.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Norwegian_Buhund',
     credit: "Kyle Welsh",
-    creditURL: 'https://www.kylewwelsh.github.io/cpnt260-a4/',
+    creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/',
   },
 ];
 
@@ -76,6 +76,7 @@ images.forEach( function(image){
   const imageLink = document.createElement('a');
   imageLink.classList.add('imageLink');
   imageLink.href = image.linkURL;
+  imageLink.target = 'blank';
   figure.appendChild(imageLink);
 
   const galleryImage = document.createElement('img');
@@ -97,6 +98,7 @@ images.forEach( function(image){
   const photoCredit = document.createElement('a');
   photoCredit.classList.add('photoCredit');
   photoCredit.href = image.creditURL;
+  photoCredit.target = 'blank';
   photoCredit.innerHTML = image.credit;
   figcaption.appendChild(photoCredit);
 
