@@ -55,7 +55,7 @@ images.forEach( function(image){
   figure.appendChild(imageTitle);
 
   const figcaption = document.createElement('figcaption');
-  figcaption.innerHTML = `${image.description} <br> Photo Credit: `;
+  figcaption.innerHTML = `${image.description} <br><br> Photo Credit: `;
   figure.appendChild(figcaption);
 
   const photoCredit = document.createElement('a');

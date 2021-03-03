@@ -78,3 +78,5 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - css style for the photo titles, figcaptions and photo credits added
 - css for gallery turned into flexbox
 - css declaration created for the figure elements, a width is site wider than the photo to account for long text and keep the images aligned properly
+- Just realized my descriptions don't meet the 10 word minimum, adding more
+- Figure width changed to same width as photo
