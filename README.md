@@ -29,4 +29,4 @@ __
 - background color added to menu options, nav set to 100vh height and 25rem width, margin-top set to 0 to for nav-options to connect nav to banner
 - color and background color added to button on hover
 - 'x' icon added to button, set to display none
-- nav now set to display none, footer given absolute position with bottom: 0
+- nav now set to display none, footer given absolute position with bottom: 0, header commented out for now
