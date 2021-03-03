@@ -15,7 +15,9 @@ button {
   width: 3rem;
 
   background-color: transparent;
+  
   border: none;
+  outline: none;
 
   font-size: 2.5rem;
 }

@@ -25,4 +25,4 @@ __
 - inline added to socials, padding added to li's, bullet points taken out of the ul's
 - banner added, footer height changed from px to rem to match banner, hamburger icon added
 - button added and styled for hamburger menu, menu options and socials given 2rem font size
-- 
+- border and outline taken off button, (might put the outline back on so it looks pressed but will decide later)
