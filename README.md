@@ -38,3 +38,5 @@ __
 - Links given an href of # (except socials)
 - Paw SVG added to banner, background color added to button to overlap Paw SVG
 - Paw SVG added to footer
+- Just remembered why I had the opacity so low on the paw svg, so you can see icons and text on the header and footer, reverted the opacity on the svg
+- 
