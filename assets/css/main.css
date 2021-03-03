@@ -27,6 +27,10 @@ button:hover {
   color: #C6EFFF;
 }
 
+.xIcon {
+  display: none;
+}
+
 nav {
   height: 100vh;
   width: 25rem;
