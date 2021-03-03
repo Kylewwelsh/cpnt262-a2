@@ -84,3 +84,5 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - Running code through validators
 - code validated, html and css files were good but validators had an issue with how I was using the strict in js files, will talk to Tony
 - Did another look over on my main.css, organized the code in order of the page and found that .gallery was done twice so combined the 2 into 1
+- Oh s**t totally forgot I had a title in the html that was commented out, adding that back
+- Title added back, styled in fonts.css and main.css

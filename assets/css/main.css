@@ -74,6 +74,11 @@ a {
   color: black;
 }
 
+.main-title {
+  text-align: center;
+  padding: 20px;
+}
+
 .gallery {
   display: flex;
   flex-flow: row wrap;
