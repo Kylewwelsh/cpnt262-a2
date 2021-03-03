@@ -78,7 +78,10 @@ images.forEach( function(images){
   galleryContainer.appendChild(imageTitle);
 
   const figcaption = document.createElement('figcaption');
-  title.innerHTML = image.description;
+  title.innerHTML = images.description;
   galleryContainer.appendChild(figurecaption);
 
-  
+  const imageLink = document.createElement('a');
+  imageLink.classList.add('imageLink');
+  imageLink.href = images.linkURL;
+  figure.appendChild(imgLink);
