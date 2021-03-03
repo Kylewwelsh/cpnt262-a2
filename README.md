@@ -36,4 +36,5 @@ __
   - display nav options
 - Hamburger menu completed, played around with it in this [codepen](https://codepen.io/kylewwelsh/full/yLVEYOK) to learn the information from DEV
 - Links given an href of # (except socials)
-- 
+- Paw SVG added to banner, background color added to button to overlap Paw SVG
+- Paw SVG added to footer
