@@ -71,3 +71,8 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - images array put into a separate js file, exported and then imported into the main script file
 - footer adjusted for all the images, changed from position absolute to position relative
 - The rest of the images were just a copy and paste and the id's were changed. Now changing all the other information
+- had to add a space after Photo Credit: in the innerHtml
+- Something is coming back undefined, need to figure out why
+- I spelled description wrong for the innerHtml, problem fixed and a break has been added between the description and photo credit
+- All the image titles, captions and photo credits updated for all the photos
+- css style for the photo titles, figcaptions and photo credits added

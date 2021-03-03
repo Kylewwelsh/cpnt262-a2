@@ -25,7 +25,7 @@ export const images = [
 
     {
     id: 2,
-    title: "Lazy sunday cuddles!",
+    title: "Lazy sunday cuddles",
     description: "Cooper and Kyle cuddled up in ben on a Sunday.",
     width: 250,
     height: 350,
@@ -37,8 +37,8 @@ export const images = [
 
   {
   id: 3,
-  title: "Superman Jump!",
-  description: "Cooper jumping onto the deck.",
+  title: "Sleeping burrito",
+  description: "Cooper swaddled up in a blanket sleeping.",
   width: 250,
   height: 350,
   pathURL: './assets/images/gallery/03.jpg',
@@ -49,8 +49,8 @@ export const images = [
 
   {
   id: 4,
-  title: "Little ball of tired",
-  description: "Cooper curled up in a ball sleeping.",
+  title: "Coopers first Christmas gift",
+  description: "Cooper after he opened his first Christmas present.",
   width: 250,
   height: 350,
   pathURL: './assets/images/gallery/04.jpg',
@@ -61,8 +61,8 @@ export const images = [
 
   {
   id: 5,
-  title: "Lazy sunday cuddles!",
-  description: "Cooper and Kyle cuddled up in ben on a Sunday.",
+  title: "Stocking Investigator",
+  description: "Cooper sniffing around his Christmas stocking.",
   width: 250,
   height: 350,
   pathURL: './assets/images/gallery/05.jpg',
@@ -73,20 +73,20 @@ export const images = [
 
 {
 id: 6,
-title: "Superman Jump!",
-description: "Cooper jumping onto the deck.",
+title: "Auntie Katie is a great pillow!",
+description: "Cooper sleeping on his aunt Katie.",
 width: 250,
 height: 350,
 pathURL: './assets/images/gallery/06.jpg',
 linkURL: 'https://en.wikipedia.org/wiki/Norwegian_Buhund',
-credit: "Kyle Welsh",
+credit: "Kaitlyn Welsh",
 creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/',
 },
 
 {
 id: 7,
-title: "Little ball of tired",
-description: "Cooper curled up in a ball sleeping.",
+title: "Even Elmo gets tired",
+description: "Cooper yawning in his Elmo costume on Halloween.",
 width: 250,
 height: 350,
 pathURL: './assets/images/gallery/07.jpg',
@@ -97,8 +97,8 @@ creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/',
 
 {
 id: 8,
-title: "Lazy sunday cuddles!",
-description: "Cooper and Kyle cuddled up in ben on a Sunday.",
+title: "Crusin' down Sesame Street",
+description: "Cooper out for a walk on Halloween wearing his Elmo costume.",
 width: 250,
 height: 350,
 pathURL: './assets/images/gallery/08.jpg',
@@ -109,8 +109,8 @@ creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/',
 
 {
 id: 9,
-title: "Superman Jump!",
-description: "Cooper jumping onto the deck.",
+title: "My foot!",
+description: "Cooper hanging out on Kyle's foot.",
 width: 250,
 height: 350,
 pathURL: './assets/images/gallery/09.jpg',
@@ -121,8 +121,8 @@ creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/',
 
 {
 id: 10,
-title: "Little ball of tired",
-description: "Cooper curled up in a ball sleeping.",
+title: "Big hugs!",
+description: "Cooper giving autnie Katie a big hug.",
 width: 250,
 height: 350,
 pathURL: './assets/images/gallery/10.jpg',
@@ -133,8 +133,8 @@ creditURL: 'https://kylewwelsh.github.io/cpnt260-a4/',
 
 {
 id: 11,
-title: "Superman Jump!",
-description: "Cooper jumping onto the deck.",
+title: "R.I.P.",
+description: "Cooper passed out in bed with his tongue out.",
 width: 250,
 height: 350,
 pathURL: './assets/images/gallery/11.jpg',

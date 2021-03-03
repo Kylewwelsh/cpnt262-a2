@@ -5,6 +5,20 @@ ul  {
   font-size: 30px;
 }
 
+.imageTitle {
+  font-family: 'Big Shoulders', sans-serif;
+  font-weight: 800;
+}
+
+figcaption {
+  font-family: 'Balsmiq Sans', sans-serif;
+}
+
+.photoCredit {
+  font-family: 'Balsmiq Sans', sans-serif;
+  font-weight: 700;
+}
+
 footer {
   font-family: 'Coda Caption', sans-serif;
   font-size: 20px;
