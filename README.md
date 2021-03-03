@@ -7,7 +7,10 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 ### [GitHub Pages](https://kylewwelsh.github.io/cpnt262-a2/)
 
 > ## Attributes:
-
+- Hamburger menu: [DEV](https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0), [Privacy Policy](https://dev.to/privacy)
+- Help with forEach and Arrays: [Linkedin Learning](https://www.linkedin.com/learning/javascript-essential-training/array-methods), Linkedin Learning [Copyright Policy](https://www.linkedin.com/legal/copyright-policy?lipi=urn%3Ali%3Apage%3Ad_learning_content%3BKOs2x%2BZpQyKwif8xJHSglg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_learning_content-footer_copyright_policy), of course also Tony and his sample code is a huge help! Whoot Whoot Tony!
+- Another huge shoutout to Ellie, Michael & Erica for being helpful superstars 
+- All photos taken by myself or my sister (Kaitlyn Welsh), no copyright on the photos
 > ## March 02, 2021:
 - Repo created on GitHub
 - Noticed that I accidentally gave CPNT260 Assignment 1 repo the cpnt262-a2 so had to change that
