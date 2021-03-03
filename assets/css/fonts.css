@@ -77,38 +77,3 @@ footer {
 
   text-align: center;
 }
-
-figcaption {
-  font-family: 'Big Shoulders Display', sans-serif;
-  font-size: 18px;
-  font-weight: 600;
-  letter-spacing: 1px;
-}
-
-@media screen and (max-width: 1085px) {
-
-  .main-title {
-    font-size: 40px;
-
-    padding-top: 60px;
-    padding-bottom: 20px;
-  }
-
-  .more-info {
-    font-size: 30px;
-    padding: 20px;
-  }
-
-  .main-paragraph {
-    text-align: center;
- 
-    left: 0;
-    right: 0;
-
-    font-size: 25px;
-
-    padding: 10px;
-    padding-top: 20px;
-    
-  }
-}
