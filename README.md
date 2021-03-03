@@ -44,3 +44,4 @@ __
 - Paw SVG added to the nav popout
 - starting image gallery in js file
 - const made for images, first image done
+- next 2 image array's added, bed time.
