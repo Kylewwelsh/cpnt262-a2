@@ -58,4 +58,4 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - figcaption element added, no class given
 - a element created for the third party website link, class added as "imageLink"
 - a element added for photo credit link, "photoCredit" class name given
--
+- `${images.desctiption} Photo Credit:` added to figcaption to produce desired text output

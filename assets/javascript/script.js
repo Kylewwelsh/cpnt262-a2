@@ -72,22 +72,24 @@ images.forEach( function(images){
   const figure = document.createElement('figure');
   galleryContainer.appendChild(figure);
 
-  const title = document.createElement('p');
-  title.classList.add('imageTitle');
-  title.innerHTML = images.title;
+  const Imagetitle = document.createElement('p');
+  Imagetitle.classList.add('imageTitle');
+  Imagetitle.innerHTML = images.title;
   galleryContainer.appendChild(imageTitle);
 
   const figcaption = document.createElement('figcaption');
-  title.innerHTML = images.description;
+  title.innerHTML = `${images.desctiption} Photo Credit:`;
   galleryContainer.appendChild(figcaption);
 
   const imageLink = document.createElement('a');
   imageLink.classList.add('imageLink');
   imageLink.href = images.linkURL;
-  figure.appendChild(imgLink);
+  figure.appendChild(imageLink);
 
   const photoCredit = document.createElement('a');
   photoCredit.classList.add('photoCredit');
-  photoCredit.href = image.creditURL;
-  photoCredit.innerHTML = image.credit;
+  photoCredit.href = images.creditURL;
+  photoCredit.innerHTML = images.credit;
   figCaption.appendChild(photoCredit);
+
+});
