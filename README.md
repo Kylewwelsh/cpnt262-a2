@@ -41,3 +41,4 @@ __
 - Just remembered why I had the opacity so low on the paw svg, so you can see icons and text on the header and footer, reverted the opacity on the svg
 - removed css that is from the old assignment so it is not needed (both in main and fonts)
 - fixed the js so that when a menu option is clicked the menu closes
+- Paw SVG added to the nav popout
