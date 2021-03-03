@@ -7,6 +7,11 @@ nav {
   padding-bottom: 75px;
 }
 
+i {
+  /* normally saying color black is redundant, but these icons adopted the default color of a link */
+  color: black;
+}
+
 .nav-options {
   list-style-type: none;
 }

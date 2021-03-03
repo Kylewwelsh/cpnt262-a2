@@ -17,3 +17,5 @@ __
 - going to start with updating the nav from the old assignment 
 - The secondary nav that was in the old assignment has been taken out, unneeded classes taken out, font awesome script added, link for browser tab icon added
 - css started for the new nav, new nav will just end up being a hamburger menu
+- Social icons had to be given a color of black (usually this is redundant) as the default color for them was the default for a link
+- tab icon svg opacity changed to 1 so color would come out
