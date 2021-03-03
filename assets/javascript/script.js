@@ -73,6 +73,12 @@ images.forEach( function(images){
   galleryContainer.appendChild(figure);
 
   const title = document.createElement('p');
-  title.classList.add('imageTitle')
-  title.innerHTML = image.title;
-  figure.appendChild(title);
+  title.classList.add('imageTitle');
+  title.innerHTML = images.title;
+  galleryContainer.appendChild(imageTitle);
+
+  const figcaption = document.createElement('figcaption');
+  title.innerHTML = image.description;
+  galleryContainer.appendChild(figurecaption);
+
+  
