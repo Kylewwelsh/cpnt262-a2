@@ -26,3 +26,18 @@ navOptions.forEach(
     navOptions.addEventListener("click", toggleMenu)
   }
 )
+
+
+const images = [
+  {
+    id: 0,
+    title: "Superman Jump!",
+    description: "Cooper jumping onto the deck.",
+    width: 250,
+    height: 350,
+    pathURL: './assets/images/gallery/00.jpg',
+    linkURL: 'https://en.wikipedia.org/wiki/Norwegian_Buhund',
+    credit: "Kyle Welsh",
+    creditURL: 'https://www.kylewwelsh.github.io/cpnt260-a4/',
+  },
+];

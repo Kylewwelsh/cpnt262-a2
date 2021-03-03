@@ -42,3 +42,5 @@ __
 - removed css that is from the old assignment so it is not needed (both in main and fonts)
 - fixed the js so that when a menu option is clicked the menu closes
 - Paw SVG added to the nav popout
+- starting image gallery in js file
+- const made for images, first image done
