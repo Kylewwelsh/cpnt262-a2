@@ -22,4 +22,5 @@ __
 - images added to the directory (forgot to mention that in the commit, whoops)
 - just realized it was stupid to style the i icons when I can just make all the links black
 - a "socials" class added to the ul for the social media icons just in case I need to style the ul's separately
+- inline added to socials, padding added to li's, bullet points taken out of the ul's
 -
