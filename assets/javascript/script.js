@@ -19,10 +19,10 @@ function toggleMenu() {
   }
 }
 
-const menuLinks = document.querySelectorAll(".menuLink")
+const navOptions = document.querySelectorAll(".navOptions")
 
-menuLinks.forEach(
-  function (menuLink) {
-    menuLink.addEventListener("click", toggleMenu)
+navOptions.forEach(
+  function (navOptions) {
+    navOptions.addEventListener("click", toggleMenu)
   }
 )
