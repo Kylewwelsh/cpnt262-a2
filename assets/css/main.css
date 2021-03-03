@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  background-color: whitesmoke;
+}
+
+.gallery-flex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:center;
+
+  padding: 20px;
+  padding-bottom: 90px;
+
+  margin-left: 0;
+  margin-right: 0;
+  list-style: none;
+}
+
+figcaption {
+  max-width: 200px;
+  max-height: 15px;
+
+  justify-content: center;
+
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+figure {
+  transition: transform 0.1s;
+  padding: 20px;
+  text-align: center;
+  min-width: 200px;
+
+}
+
+.gallery-img {
+  padding: 0px;
+
+  max-width: 300px;
+  max-height: 300px;
+  align-items: center;
+
+  object-fit: scale-down; 
+
+  border-radius: 10px 10px 10px 10px;
+}
+
+
+figure:hover {
+  transform: scale(1.5);
+
+  border-radius: 10%;
+  border: solid black;
+  
+  background-color: rgb(233, 221, 221);
+
+  
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+@media screen and (max-width: 1085px) {
+  
+  .large-nav {
+   display: none;
+  }
+
+
+  .main-title {
+    font-size: 30px;
+    padding: 0;
+  }
+
+  .main-page-img {
+    min-width: 200px;
+    max-width: 200px;
+
+  }
+
+  figure:hover {
+    /*turns of scale transition in gallery for mobile to make viewing and functionality for convinient for user*/
+    transform: none;
+    border: none;
+    background: none;
+    
+    /* stops the image from jumping */
+    padding:20px; 
+  }
+
+  .small-screen {
+    display: none;
+  }
+}
+
+footer {
+  /*DO NOT add a width to the footer, keeps messing with page width*/
+  
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  background-color: #C6EFFF;
+
+  /*Paw image for background on footer*/
+  background-image: url(../images/nav-bar-paw-image.svg);
+
+  background-size: contain;
+  background-repeat: repeat;
+
+  height: 30px;
+  padding: 10px 16px;
+}

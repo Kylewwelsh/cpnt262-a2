@@ -11,3 +11,4 @@ __
 - Directory set up; css, js, html files created
 - Doctype added to html, strict mode added to js
 - To get in better habits for the group project I will be practicing committing my code more often with this
+- css and html from cpnt260-a3 copied over, left the css for the other pages from cpnt260 out of the copy and paste
