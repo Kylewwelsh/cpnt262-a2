@@ -7,11 +7,8 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 ### [GitHub Pages](https://kylewwelsh.github.io/cpnt262-a2/)
 
 > ## Attributes:
->
-> \_\_
->
-> ## March 02, 2021:
 
+> ## March 02, 2021:
 - Repo created on GitHub
 - Noticed that I accidentally gave CPNT260 Assignment 1 repo the cpnt262-a2 so had to change that
 - I have decided to use my CPNT260 gallery for this assignment, <strong><em><u>but</u></em></strong> because my CPNT260-A3 was part of a multi page gallery, I am just going to copy over the code for ease of access for Tony
@@ -53,3 +50,8 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - const made for images, first image done
 - next 2 image array's added, bed time.
 >## March 03, 2021:
+- Realized I had the wrong date on my readme so I fixed it
+- Added const for the gallery called "galleryContainer"
+- forEach created for the images
+- .createElement used to create a figure element, appendChild used to put the figure element inside the gallery
+- 

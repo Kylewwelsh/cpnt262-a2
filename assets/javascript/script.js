@@ -65,3 +65,9 @@ const images = [
     creditURL: 'https://www.kylewwelsh.github.io/cpnt260-a4/',
   },
 ];
+
+const galleryContainer = document.querySelector('.gallery');
+
+images.forEach( function(images){
+  const figure = document.createElement('figure');
+  galleryContainer.appendChild(figure);
