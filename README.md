@@ -90,3 +90,4 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - Oh s**t totally forgot I had a title in the html that was commented out, adding that back
 - Title added back, styled in fonts.css and main.css
 - Comments added
+- Ready to hand in, prayers up!!
