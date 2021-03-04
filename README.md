@@ -7,11 +7,12 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 ### [GitHub Pages](https://kylewwelsh.github.io/cpnt262-a2/)
 
 > ## Attributes:
+
 - Hamburger menu: [DEV](https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0), [Privacy Policy](https://dev.to/privacy)
 - Help with forEach and Arrays: [Linkedin Learning](https://www.linkedin.com/learning/javascript-essential-training/array-methods), Linkedin Learning [Copyright Policy](https://www.linkedin.com/legal/copyright-policy?lipi=urn%3Ali%3Apage%3Ad_learning_content%3BKOs2x%2BZpQyKwif8xJHSglg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_learning_content-footer_copyright_policy), of course also Tony and his sample code is a huge help! Whoot Whoot Tony!
-- Another huge shoutout to Ellie, Michael & Erica for being helpful superstars 
+- Another huge shoutout to Ellie, Michael & Erica for being helpful superstars
 - All photos taken by myself or my sister (Kaitlyn Welsh), no copyright on the photos
-> ## March 02, 2021:
+  > ## March 02, 2021:
 - Repo created on GitHub
 - Noticed that I accidentally gave CPNT260 Assignment 1 repo the cpnt262-a2 so had to change that
 - I have decided to use my CPNT260 gallery for this assignment, <strong><em><u>but</u></em></strong> because my CPNT260-A3 was part of a multi page gallery, I am just going to copy over the code for ease of access for Tony
@@ -52,7 +53,7 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - starting image gallery in js file
 - const made for images, first image done
 - next 2 image array's added, bed time.
->## March 03, 2021:
+  > ## March 03, 2021:
 - Realized I had the wrong date on my readme so I fixed it
 - Added const for the gallery called "galleryContainer"
 - forEach created for the images
@@ -87,7 +88,7 @@ Repo Author, Owner & Maintainer: <em>Kyle Welsh</em>
 - Running code through validators
 - code validated, html and css files were good but validators had an issue with how I was using the strict in js files, will talk to Tony
 - Did another look over on my main.css, organized the code in order of the page and found that .gallery was done twice so combined the 2 into 1
-- Oh s**t totally forgot I had a title in the html that was commented out, adding that back
+- Oh s\*\*t totally forgot I had a title in the html that was commented out, adding that back
 - Title added back, styled in fonts.css and main.css
 - Comments added
 - Ready to hand in, prayers up!!
